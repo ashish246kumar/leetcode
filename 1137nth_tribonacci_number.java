@@ -1,4 +1,4 @@
- Solution {
+ Solut{
     public int tribonacci(int n) {
         if(n==0)
         {
