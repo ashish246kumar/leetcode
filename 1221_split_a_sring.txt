@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int balancedStringSplit(String s) {
         int count=0,left=0,right=0;
         if(s.length()==0)
